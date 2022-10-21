@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 ## Olá, eu sou a Catiusci P. C. Scheffer!
 
+#### Estudante de Ciências da Computação
+
+- Apaixonada por programar;
+- Buscando aprender mais a cada dia;
+
 
 
 <div align="center">
@@ -29,8 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Cati-pic" height="150" style="border-radius:50px;" src="https://github.com/CatiusciScheffer/CatiusciScheffer/blob/main/cat1.png">
-</div>
+  
   
   ##
  
